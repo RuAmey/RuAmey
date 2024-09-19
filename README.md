@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amey Pande</h1>
-<h3 align="center">A passionate Software developer from SGGSIE&T, vishnupuri Nanded</h3>
+<h3 align="center">A passionate Software Engineer from SGGSIE&T, vishnupuri Nanded</h3>
 
 - 🌱 I’m diving deep into **Fullstack development.**
 
